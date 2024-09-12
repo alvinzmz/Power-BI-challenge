@@ -1,13 +1,5 @@
 # DSC-Power-BI-challenge
 
-## Task allocation:
-
-- Main dashboard (Philipp) - happy for others to help with this as I am quite new to Power BI
-- Sales Forecast (Alvin)
-- Basket Analysis (...)
-
-## To Do
-
 ### Main Dashbaord
 
 - Make use of Date Table file (for correct filtering by date?)
