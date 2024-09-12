@@ -10,7 +10,6 @@
 - Add visual with info on customers in Dashboard
 - Change that each visual affects all other visuals by clicking on them
 - Add panels / slicers on left to control slicing
-- ANY SUGGESTIONS / IDEAS welcome, above are just my (Philipp) ideas for the moment
 
 ### Sales Forecast (separate page on Dashboard)
 
